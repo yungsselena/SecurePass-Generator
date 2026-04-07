@@ -331,15 +331,10 @@ SecurePass-Generator/
    ```bash
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-### Вариант 1: Запуск из исходного кода
+### Запуск из исходного кода
 
 **Шаг 1: Клонирование репозитория**
 ```bash
 git clone https://github.com/yungsselena/SecurePass-Generator.git
 cd SecurePass-Generator
-## 👤 Информация об авторе
-
-**ФИО:** Селезнева Богдана Олеговна 
-**Группа:** ИБ-41 
-
 
