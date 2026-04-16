@@ -259,7 +259,19 @@ Unknown
 
 ---
 
+# 🔐 SecurePass Generator
 
+## 📊 Схемы проекта
+
+### 1. Use Case диаграмма
+![Use Case диаграмма](./schemas/usecase_diagram.png)
+
+### 2. Блок-схема алгоритма
+![Блок-схема](./schemas/flowchart.png)
+
+## 🚀 Запуск проекта
+```bash
+python programm/password_generator.py
 
 
 
