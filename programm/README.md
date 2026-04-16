@@ -1,7 +1,7 @@
 # 📂 Папка с кодом программы
 
 Здесь находится главный файл приложения:
-- `password_generator.py` - основной исполняемый файл# password_generator.py
+# password_generator.py
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
 import random
@@ -416,8 +416,7 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
-    main()
-
+    main
 ## Как запустить:
 1. Откройте командную строку/терминал
 2. Перейдите в эту папку: `cd programm`
