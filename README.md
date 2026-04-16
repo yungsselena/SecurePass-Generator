@@ -264,9 +264,10 @@ Unknown
 ## 📊 Схемы проекта
 
 ### 1. Use Case диаграмма
-![Use Case диаграмма](./schemas/usecase_diagram.png) <img width="509" height="743" alt="usecase_diagram" src="https://github.com/user-attachments/assets/84386119-c11f-4d96-a14f-364337c643c6" />
+ <img width="509" height="743" alt="usecase_diagram" src="https://github.com/user-attachments/assets/84386119-c11f-4d96-a14f-364337c643c6" />
 <img width="1124" height="1024" alt="flowchart" src="https://github.com/user-attachments/assets/431d33e8-4165-4545-9e28-98932c46afa2" />
 
+---
 
 ### 2. Блок-схема алгоритма
 ![Блок-схема](./schemas/flowchart.png)
